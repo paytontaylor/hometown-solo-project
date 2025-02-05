@@ -19,7 +19,7 @@ section {
 }
 
 #top-section {
-    background-image: url("images/hsv-img.jpeg");
+    background-image: url("hsv-img.jpeg");
     background-size: cover;
     display: flex;
     flex-direction: column;
